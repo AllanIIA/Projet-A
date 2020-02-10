@@ -1,0 +1,3 @@
+[submodule "Projet-B"]
+	path = Projet-B
+	url = git@github.com:AllanIIA/Projet-B.git
